@@ -1,0 +1,17 @@
+@media (max-width: 70em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 58em) {
+  html {
+    font-size: 40%;
+  }
+}
+
+@media (max-width: 47em) {
+  .card-blocks {
+    display: block;
+  }
+}
